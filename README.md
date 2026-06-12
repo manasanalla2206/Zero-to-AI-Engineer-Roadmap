@@ -4,7 +4,7 @@
 I'm learning AI Engineering from scratch starting June 2026.
 This is my complete 6-month roadmap — every concept, every task, every project.
 
-🔗 Live: https://your-netlify-link.netlify.app
+🔗 Live: https://manasa-ai-roadmap.netlify.app
 
 ## What's inside
 - Month 0: Foundations & Landscape
